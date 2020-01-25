@@ -8,4 +8,5 @@ Collection of ML Projects that focus on practical machine learning techniques us
 - [SNAP_R A machine learning based social media pen-testing tool](https://github.com/zerofox-oss/SNAP_R)
 - [Timing Attacks using Machine Learning](https://parzelsec.de/timing-attacks-with-machine-learning/)
 - [Blackbox Generation of Adversarial text](https://github.com/QData/deepWordBug)
+- [Unsupervised Cypher Cracking Using Discrete GANs](https://arxiv.org/abs/1801.04883)
 - [Deepfakes: face swap on videos](https://github.com/deepfakes/faceswap)
